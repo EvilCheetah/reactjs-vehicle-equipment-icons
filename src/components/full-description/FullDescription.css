@@ -1,0 +1,24 @@
+.full-description {
+    background-color: #e9ecef;
+    margin-top: 100px;
+    padding: 25px;
+}
+
+.full-description-item {
+    display: inline-block;
+    background-color: #748ffc;
+    border-radius: 10px;
+    min-width: 2em;
+
+    text-align: center;
+    text-underline-offset: 2px;
+    font-weight: 500;
+    
+    padding: 5px 10px;
+    margin: 5px 5px;
+}
+
+.absent {
+    /* display: none; */
+    background-color: #868e96;
+}
