@@ -1,5 +1,6 @@
 import './Abbreviation.css';
 import { EquipmentType } from "../../interface/equipment-type.interface";
+import { get_item_visibility } from '../../function/get-item-visibility.function';
 
 
 export function AbbreviationItem({ equipment_type }: EquipmentType)
@@ -8,7 +9,7 @@ export function AbbreviationItem({ equipment_type }: EquipmentType)
 
     return (
         <abbr
-            className={`abbreviation-item ${is_included ? 'included' : 'absent'}`}
+            className={`abbreviation-item ${ get_item_visibility(is_included) }`}
             title={equipment_name}
         >
             { 
