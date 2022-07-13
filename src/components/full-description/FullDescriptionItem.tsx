@@ -1,10 +1,10 @@
 import { get_item_visibility } from "../../function/get-item-visibility.function";
-import { EquipmentType } from "../../interface/equipment-type.interface";
+import { EquipmentTypeProp } from "../../interface/equipment-type-prop.interface";
 
 
-export function FullDescriptionItem({ equipment_type }: EquipmentType)
+export function FullDescriptionItem({ equipment_type }: EquipmentTypeProp)
 {
-    const [equipment_name, is_included] = equipment_type;
+    const {equipment_name, is_included} = equipment_type;
 
     return (
         <span

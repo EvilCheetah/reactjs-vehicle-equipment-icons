@@ -1,10 +1,10 @@
 import './FullDescription.css'
-import { Equipment } from '../../types/equipment.type';
-import { IEquipment } from '../../interface/equipment.interface';
+import { EquipmentProp } from '../../interface/equipment-prop.interface';
 import { FullDescriptionItem } from './FullDescriptionItem';
+import { Equipment } from '../../interface/equipment.interface';
 
 
-export function FullDescription({ equipment }: IEquipment)
+export function FullDescription({ equipment }: EquipmentProp)
 {
     return (
         <div className="full-description">
@@ -14,7 +14,7 @@ export function FullDescription({ equipment }: IEquipment)
                     {
                         return (
                             <FullDescriptionItem
-                                key={equipment_type[0]}
+                                key={equipment_type['equipment_name']}
                                 equipment_type={equipment_type}
                             />
                         );
