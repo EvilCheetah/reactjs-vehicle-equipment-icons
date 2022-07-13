@@ -24,12 +24,3 @@
     padding: 5px;
     margin: 5px 5px;
 }
-
-.included {
-    background-color: #748ffc;;
-}
-
-.absent {
-    /* display: none; */
-    background-color: #868e96;
-}

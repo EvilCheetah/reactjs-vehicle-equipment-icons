@@ -6,7 +6,6 @@
 
 .full-description-item {
     display: inline-block;
-    background-color: #748ffc;
     border-radius: 10px;
     min-width: 2em;
 
@@ -16,9 +15,4 @@
     
     padding: 5px 10px;
     margin: 5px 5px;
-}
-
-.absent {
-    /* display: none; */
-    background-color: #868e96;
 }
