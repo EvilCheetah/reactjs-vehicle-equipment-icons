@@ -1,14 +1,14 @@
 import './DisplayMenu.css';
-import { Abbreviation } from './components/abbreviation/Abbreviation';
 import data from './data.json';
-import { Equipment } from './types/equipment.type';
+import { Abbreviation } from './components/abbreviation/Abbreviation';
 import { FullDescription } from './components/full-description/FullDescription';
 import { Visual } from './components/visual/Visual';
+import { Equipment } from './interface/equipment.interface';
 
 
 export function DisplayMenu()
 {
-    const equipment = data as Equipment[];
+    const equipment: Equipment[] = data;
 
     return (
         <div className="display-menu">
