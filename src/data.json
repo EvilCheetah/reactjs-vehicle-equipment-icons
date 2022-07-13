@@ -1,12 +1,12 @@
 [
-    ["Dock High",              true], 
-    ["Pallet Jack",            true], 
-    ["Side Door",              true], 
     ["Air Ride",               false],
-    ["Ramps",                  true], 
-    ["Lift Gate",              true], 
-    ["Temperature Control",    true], 
-    ["Dolly",                  true],  
-    ["E-Track",                true], 
-    ["Hazardous Material",     true]
+    ["Dock High",              true],
+    ["Dolly",                  true], 
+    ["E-Track",                true],
+    ["Hazardous Material",     true],
+    ["Lift Gate",              false],
+    ["Pallet Jack",            true],
+    ["Ramps",                  false],
+    ["Side Door",              false],
+    ["Temperature Control",    true]
 ]
