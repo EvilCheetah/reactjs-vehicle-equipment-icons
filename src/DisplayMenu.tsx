@@ -1,14 +1,17 @@
 import './DisplayMenu.css';
 import data from './data.json';
+
+import { Visual } from './components/visual/Visual';
 import { Abbreviation } from './components/abbreviation/Abbreviation';
 import { FullDescription } from './components/full-description/FullDescription';
-import { Visual } from './components/visual/Visual';
+
 import { Equipment } from './interface/equipment.interface';
+import { convert_equipment } from './function/convert-equipment.funciton';
 
 
 export function DisplayMenu()
 {
-    const equipment: Equipment[] = data;
+    const equipment: Equipment[] = convert_equipment(data);
 
     return (
         <div className="display-menu">
