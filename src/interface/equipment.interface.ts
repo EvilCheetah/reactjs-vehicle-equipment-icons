@@ -1,7 +1,9 @@
-import { Equipment } from "../types/equipment.type";
+import { IEquipmentName } from "./equipment-name.interface";
+import { IIsIncluded } from "./is-included.interface";
 
 
-export interface IEquipment
-{
-    equipment: Equipment[];
-}
+export interface Equipment
+extends
+    IEquipmentName,
+    IIsIncluded
+{}
