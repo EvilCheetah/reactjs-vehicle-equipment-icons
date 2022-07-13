@@ -1,9 +1,9 @@
+import { EquipmentProp } from "../../interface/equipment-prop.interface";
+import { Equipment } from "../../interface/equipment.interface";
 import { AbbreviationItem } from "./AbbreviationItem";
-import { IEquipment } from "../../interface/equipment.interface";
-import { Equipment } from "../../types/equipment.type";
 
 
-export function Abbreviation({ equipment }: IEquipment)
+export function Abbreviation({ equipment }: EquipmentProp)
 {  
     return (
         <div className="abbreviation">
@@ -13,7 +13,7 @@ export function Abbreviation({ equipment }: IEquipment)
                     {
                         return (
                             <AbbreviationItem
-                                key={equipment_type[0]}
+                                key={equipment_type['equipment_name']}
                                 equipment_type={equipment_type}
                             />
                         );
