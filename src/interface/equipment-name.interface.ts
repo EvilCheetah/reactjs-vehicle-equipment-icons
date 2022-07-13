@@ -1,4 +1,7 @@
+import { EquipmentName } from "../types/equipment-name.type";
+
+
 export interface IEquipmentName
 {
-    equipment_name: string;
+    equipment_name: EquipmentName;
 }
