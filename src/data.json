@@ -1,7 +1,4 @@
-import { Equipment } from "./interface/equipment.interface";
-
-
-export const data: Equipment[] = [
+[
     {
         "equipment_name": "Air Ride",
         "is_included":     false
