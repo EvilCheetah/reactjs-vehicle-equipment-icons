@@ -3,10 +3,10 @@ export const POSSIBLE_EQUIPMENT = [
     "Dock High",
     "Dolly",
     "E-Track",
-    "Hazardous Material",
+    "Haz-Mat",
     "Lift Gate",
     "Pallet Jack",
     "Ramps",
     "Side Door",
-    "Temperature Control",
+    "Temp Control",
 ]
