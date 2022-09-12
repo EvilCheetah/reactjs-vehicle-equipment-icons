@@ -34,7 +34,7 @@ export function GetEquipmentIcon({ equipment_name }: IEquipmentName)
         case ('lift gate'):
             return <LiftGate />;
         
-        case ('temperature control'):
+        case ('temp control'):
             return <TemperatureControl />;
         
         case ('dolly'):
@@ -43,7 +43,7 @@ export function GetEquipmentIcon({ equipment_name }: IEquipmentName)
         case ('e-track'):
             return <ETrack />;
         
-        case ('hazardous material'):
+        case ('haz-mat'):
             return <HazardousMaterial />;
 
         default:
