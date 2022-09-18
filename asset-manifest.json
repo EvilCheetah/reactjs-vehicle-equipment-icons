@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ReactJS-Vehicle-Equipment-Icons/static/css/main.1b7bfe5a.css",
+    "main.js": "/ReactJS-Vehicle-Equipment-Icons/static/js/main.e481a499.js",
+    "static/js/496.4221ba26.chunk.js": "/ReactJS-Vehicle-Equipment-Icons/static/js/496.4221ba26.chunk.js",
+    "index.html": "/ReactJS-Vehicle-Equipment-Icons/index.html",
+    "main.1b7bfe5a.css.map": "/ReactJS-Vehicle-Equipment-Icons/static/css/main.1b7bfe5a.css.map",
+    "main.e481a499.js.map": "/ReactJS-Vehicle-Equipment-Icons/static/js/main.e481a499.js.map",
+    "496.4221ba26.chunk.js.map": "/ReactJS-Vehicle-Equipment-Icons/static/js/496.4221ba26.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b7bfe5a.css",
+    "static/js/main.e481a499.js"
+  ]
+}
