@@ -2,7 +2,7 @@
 
 This is the third visualization project. It was written to choose the best way to display/represent vehicle equipment, commercial drivers might have. There were 3 ways to display it: **abbreviations**, with hover explanation, **full description** and **icons**. In this project, I was focused on flexbox and grid layouts, their difference, styling, etc.
 
-Additional thanks❤️ to [FlatIcon](https://www.flaticon.com/), for free icons used as placeholders to demonstrate equipment in this project.
+Additional thanks ❤️ to [FlatIcon](https://www.flaticon.com/), for free icons used as placeholders to demonstrate equipment in this project.
 
 ## How to Run
 
