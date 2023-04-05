@@ -14,4 +14,4 @@ To view the visualization, run `npm start`.
 
 ## Access it in browser
 
-If you just want to take a look at he final result, i.e. deployed version, go to the [Demo @ GitHub Pages](https://evilcheetah.github.io/ReactJS-Vehicle-Equipment-Icons).
+If you just want to take a look at he final result, i.e. deployed version, go to the [Demo @ GitHub Pages](https://evilcheetah.github.io/vehicle-equipment-icons).
