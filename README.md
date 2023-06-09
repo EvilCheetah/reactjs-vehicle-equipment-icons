@@ -4,14 +4,16 @@ This is the third visualization project. It was written to choose the best way t
 
 Additional thanks ❤️ to [FlatIcon](https://www.flaticon.com/), for free icons used as placeholders to demonstrate equipment in this project.
 
+
+## [**Live Demo**](https://evilcheetah.github.io/reactjs-vehicle-equipment-icons/)
+
+If you just want to take a look at he final result, i.e. deployed version, go to the [**Demo | GitHub Pages**](https://evilcheetah.github.io/reactjs-vehicle-equipment-icons/).
+
+
 ## How to Run
 
 Before running the project, make sure the dependencies are installed.
-In order to do that, run `npm i`.
+In order to do that, run `pnpm i`.
 
-To test the app builds, run `npm run build`.
-To view the visualization, run `npm start`.
-
-## Access it in browser
-
-If you just want to take a look at he final result, i.e. deployed version, go to the [Demo @ GitHub Pages](https://evilcheetah.github.io/vehicle-equipment-icons).
+To test the app builds, run `pnpm run build`.
+To view the visualization, run `pnpm start`.
