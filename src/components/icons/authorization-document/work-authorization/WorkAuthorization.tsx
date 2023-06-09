@@ -1,6 +1,6 @@
 export function WorkAuthorization()
 {
     return (
-        <img src='images/WorkAuthorization.png' alt="Work Authorization" />
+        <img src={`${process.env.PUBLIC_URL}/images/WorkAuthorization.png`} alt="Work Authorization" />
     );
 }

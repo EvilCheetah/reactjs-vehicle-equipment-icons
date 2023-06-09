@@ -1,6 +1,6 @@
 export function DockHigh()
 {
     return (
-        <img src='images/DockHigh.png' alt="Dock High" />
+        <img src={`${process.env.PUBLIC_URL}/images/DockHigh.png`} alt="Dock High" />
     );
 }

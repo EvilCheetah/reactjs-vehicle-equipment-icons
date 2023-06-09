@@ -1,6 +1,6 @@
 export function GreenCard()
 {
     return (
-        <img src='images/GreenCard.png' alt="Green Card" />
+        <img src={`${process.env.PUBLIC_URL}/images/GreenCard.png`} alt="Green Card" />
     );
 }

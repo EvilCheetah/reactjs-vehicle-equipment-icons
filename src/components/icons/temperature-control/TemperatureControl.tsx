@@ -1,6 +1,6 @@
 export function TemperatureControl()
 {
     return (
-        <img src='images/TemperatureControl.png' alt="Temperature Control" />
+        <img src={`${process.env.PUBLIC_URL}/images/TemperatureControl.png`} alt="Temperature Control" />
     );
 }

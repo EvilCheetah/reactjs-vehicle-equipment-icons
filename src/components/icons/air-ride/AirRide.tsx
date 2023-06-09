@@ -1,6 +1,6 @@
 export function AirRide()
 {
     return (
-        <img src='images/AirRide.png' alt='Air Ride'/>
+        <img src={`${process.env.PUBLIC_URL}/images/AirRide.png`} alt='Air Ride'/>
     );
 }

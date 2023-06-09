@@ -1,6 +1,6 @@
 export function Ramp()
 {
     return (
-        <img src='images/Ramp.png' alt="Ramp" />
+        <img src={`${process.env.PUBLIC_URL}/images/Ramp.png`} alt="Ramp" />
     );
 }

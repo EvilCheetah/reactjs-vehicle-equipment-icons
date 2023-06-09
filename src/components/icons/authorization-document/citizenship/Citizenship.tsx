@@ -1,6 +1,6 @@
 export function Citizenship()
 {
     return (
-        <img src='images/Citizenship.png' alt="Citizenship" />
+        <img src={`${process.env.PUBLIC_URL}/images/Citizenship.png`} alt="Citizenship" />
     );
 }
