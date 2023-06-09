@@ -1,4 +1,4 @@
-# ReactJS Document Expiration Table
+# ReactJS Vehicle Equipment Icons
 
 This is the third visualization project. It was written to choose the best way to display/represent vehicle equipment, commercial drivers might have. There were 3 ways to display it: **abbreviations**, with hover explanation, **full description** and **icons**. In this project, I was focused on flexbox and grid layouts, their difference, styling, etc.
 
