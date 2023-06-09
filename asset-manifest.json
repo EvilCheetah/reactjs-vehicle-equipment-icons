@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/vehicle-equipment-icons/static/css/main.1b7bfe5a.css",
-    "main.js": "/vehicle-equipment-icons/static/js/main.a27424a2.js",
-    "static/js/496.4221ba26.chunk.js": "/vehicle-equipment-icons/static/js/496.4221ba26.chunk.js",
-    "index.html": "/vehicle-equipment-icons/index.html",
-    "main.1b7bfe5a.css.map": "/vehicle-equipment-icons/static/css/main.1b7bfe5a.css.map",
-    "main.a27424a2.js.map": "/vehicle-equipment-icons/static/js/main.a27424a2.js.map",
-    "496.4221ba26.chunk.js.map": "/vehicle-equipment-icons/static/js/496.4221ba26.chunk.js.map"
+    "main.css": "/reactjs-vehicle-equipment-icons/static/css/main.1b7bfe5a.css",
+    "main.js": "/reactjs-vehicle-equipment-icons/static/js/main.fbfcfa91.js",
+    "static/js/618.ccc10c94.chunk.js": "/reactjs-vehicle-equipment-icons/static/js/618.ccc10c94.chunk.js",
+    "index.html": "/reactjs-vehicle-equipment-icons/index.html",
+    "main.1b7bfe5a.css.map": "/reactjs-vehicle-equipment-icons/static/css/main.1b7bfe5a.css.map",
+    "main.fbfcfa91.js.map": "/reactjs-vehicle-equipment-icons/static/js/main.fbfcfa91.js.map",
+    "618.ccc10c94.chunk.js.map": "/reactjs-vehicle-equipment-icons/static/js/618.ccc10c94.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1b7bfe5a.css",
-    "static/js/main.a27424a2.js"
+    "static/js/main.fbfcfa91.js"
   ]
 }
